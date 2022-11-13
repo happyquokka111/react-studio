@@ -1,9 +1,29 @@
 /* Add styling for your page here */
 
 .App {
-
+  background-color: pink;
+}
+.h1 {
+  position: center;
 }
 
 .BakeryItem {
-  
+  border: 1px black;
+}
+
+.items {
+  width: 500px;
+  border: 3px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+
+.button {
+  border-radius: 6px;
+  width: 12%;
+  height: 10%;
+}
+.im {
+  width: "80";
+  height: "80";
 }
